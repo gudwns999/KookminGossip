@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "142309978922",
+    "firebase_url": "https://kookmingossip-fcm.firebaseio.com",
+    "project_id": "kookmingossip-fcm",
+    "storage_bucket": "kookmingossip-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142309978922:android:5bb3b1588aacdc61",
+        "android_client_info": {
+          "package_name": "com.gudwns999.kookmingossip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142309978922-3uns9kfufnplo6ueai0rruh12viio68p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojaXMnioUI2Vdz-DOkH_J4iKYoYH3zfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
